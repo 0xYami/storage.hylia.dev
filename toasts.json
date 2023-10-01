@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "media": "https://www.hyperstar.live/images/tTu4DJai_400x400.jpg",
+        "title": "HyperStar",
+        "content": "Join the world of HyperStar",
+        "$buttons": [
+            {
+                "text": "Join Now",
+                "link": "https://www.hyperstar.live/"
+            }
+        ]
+    }
+]
