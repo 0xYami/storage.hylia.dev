@@ -7,7 +7,8 @@
         "$buttons": [
             {
                 "text": "Join Now",
-                "link": "https://www.hyperstar.live/"
+                "link": "https://www.hyperstar.live/",
+                "type": "primary"
             }
         ]
     }
