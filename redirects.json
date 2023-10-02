@@ -1,0 +1,14 @@
+[
+    {
+        "source": "/throne",
+        "destination": "throne.com/int32"
+    },
+    {
+        "source": "kofi",
+        "destination": "https://ko-fi.com/unsignedint32"
+    },
+    {
+        "source": "/furdox",
+        "destination": "https://furdox.tk"
+    }
+]
