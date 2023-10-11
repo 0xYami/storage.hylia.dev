@@ -12,3 +12,6 @@ function CreateSnackbar(txt, timeToStart, timeToRemove) {
         }, timeToRemove || 3000);
       }, timeToStart || 2000);
 }
+
+
+window.CreateSnackbar = CreateSnackbar
