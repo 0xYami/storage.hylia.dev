@@ -7,6 +7,17 @@
         "icons": [
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         ]
+    },
+    {
+        "name": "Fuzzikko",
+        "description": "AI 🐰 Vtuber Bunny Girl 🐇",
+        "url": "https://x.com/fuzzikkovt",
+        "image": "https://pbs.twimg.com/profile_images/1669846769553887233/0swjzPGS_400x400.jpg",
+        "icons": [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+        ]
     }
 ]
 
