@@ -5,7 +5,9 @@
         "url": "https://github.com/withervt/Community-Server-Discord-Bot",
         "image": "https://github.com/withervt/Community-Server-Discord-Bot/blob/master/.github/Images/logo.png?raw=true",
         "icons": [
-            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         ]
     },
     {
