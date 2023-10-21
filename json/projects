@@ -3,6 +3,7 @@
         "name": "Community Server Discord Bot",
         "description": "The discord bot for my discord server \"Furry Nation\". A welcoming community for furries, anime fans, and enthusiasts from around the world. Join us to share art, make friends, and celebrate our furry passions! 🎨🌐",
         "url": "https://github.com/withervt/Community-Server-Discord-Bot",
+        "image": "https://github.com/withervt/Community-Server-Discord-Bot/blob/master/.github/Images/logo.png?raw=true",
         "icons": [
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         ]
