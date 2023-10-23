@@ -1,29 +1,17 @@
 [
     {
-        "name": "October Updates",
-        "date": "2022-10-01",
-        "text": "Hello, World",
+        "$schema": "https://storage.hylia.dev/json/vtuber-wiki/schemas/changelog.json",
+        "name": "🎃 October Updates",
+        "codename": "Barracuda",
+        "date": "2023-10-24",
+        "text": "In this update we launched the VtuberWiki!",
         "log": {
             "added": [
-                "Hello, World"
-            ],
-            "changed": [
-                "Hello, World"
-            ],
-            "deprecated": [
-                "Hello, World"
-            ],
-            "removed": [
-                "Hello, World"
-            ],
-            "fixed": [
-                "Hello, World"
-            ],
-            "security": [
-                "Hello, World"
-            ],
-            "unreleased": [
-                "Hello, World"
+                "Vtubers",
+                "Software",
+                "Guides",
+                "Changelogs",
+                "Api Access"
             ]
         }
     }
