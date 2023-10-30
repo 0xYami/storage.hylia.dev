@@ -1,4 +1,14 @@
 [
+{
+        "name": "Vtubers Wiki",
+        "description": "Search or browse in depth information about Vtubers or software related to Vtubers",
+        "url": "https://www.vtubers.wiki/?ref=hylia.dev",
+        "image": "https://vtubers.wiki/images/logo.png",
+        "icons": [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        ]
+    },
     {
         "name": "Community Server Discord Bot",
         "description": "The discord bot for my discord server \"Furry Nation\". A welcoming community for furries, anime fans, and enthusiasts from around the world. Join us to share art, make friends, and celebrate our furry passions! 🎨🌐",
