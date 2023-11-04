@@ -1,11 +1,22 @@
 [
     {
+        "date": "2023 - Present",
+        "company_name": "Vtubers Wiki",
+        "position": "Lead Developer",
+        "list": [
+            "Frontend Developer",
+            "Backend Developer",
+            "Discord Bot Developer"
+        ]
+    },
+    {
         "date": "2022 - 2023",
         "company_name": "Goddess Anime",
         "position": "Lead Developer",
         "list": [
-            "I worked as a Frontend Developer on this project.",
-            "I also worked on the backend of this project."
+            "Frontend Developer",
+            "Backend Developer",
+            "Discord Bot Developer"
         ]
     }
 ]
