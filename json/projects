@@ -3,7 +3,7 @@
         "name": "Vtubers Wiki",
         "description": "Search or browse in depth information about Vtubers or software related to Vtubers",
         "url": "https://www.vtubers.wiki/?ref=hylia.dev",
-        "image": "https://vtubers.wiki/images/logo.png",
+        "image": "https://vtubers.wiki/static/images/logo.png",
         "icons": [
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
